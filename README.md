@@ -1,4 +1,4 @@
-# Genio_Quiz
+# GeoLocaliza-API-Nominatim
 
 ## Ideia
 Utilizando a API gratuita Nominatim do projeto OpenStreetMap para realizar geocodificação reversa, permitindo que os usuários conversem coordenadas geográficas (latitude e longitude) em informações de localização (país, estado e cidade).
