@@ -79,5 +79,5 @@ Sendo essas informações correspondentes ao JSON passado.
 
 * Clonar o repositório: 
 ```bash
-git clone 
+git clone https://github.com/Matheus2037/GeoLocaliza-API-Nominatim.git
 ```
