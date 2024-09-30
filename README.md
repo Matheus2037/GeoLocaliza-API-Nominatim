@@ -81,3 +81,8 @@ Sendo essas informações correspondentes ao JSON passado.
 ```bash
 git clone https://github.com/Matheus2037/GeoLocaliza-API-Nominatim.git
 ```
+
+* Abrir o projeto no interpretador de sua preferência: 
+```bash
+E rodar a classe GeolocalizacaoApplication.java
+```
